@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - "\u6575\u4EBA"
   layers:
   - Default
   - TransparentFX
@@ -13,8 +14,8 @@ TagManager:
   - UI
   - 
   - 
-  - PostProcessing
-  - 
+  - "\u5730\u677F"
+  - "\u73A9\u5BB6"
   - 
   - 
   - 
